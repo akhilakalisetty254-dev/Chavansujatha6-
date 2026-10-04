@@ -1,0 +1,6 @@
+{
+  "name": "CampusShare — Rent & Reuse",
+  "description": "Peer-to-peer campus rental and reuse platform for students to borrow and lend study materials, electronics, sports gear, and hostel essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
